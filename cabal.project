@@ -16,7 +16,8 @@ index-state:
   , hackage.haskell.org 2023-06-06T00:00:00Z
   , cardano-haskell-packages 2023-06-05T06:39:32Z
 
-packages: .
+packages: . ../../mlabs/clb
+-- packages: .
 
 -- TODO: Default value should be @direct@ in upcoming 3.10 version of cabal, omit this line then.
 test-show-details: direct
